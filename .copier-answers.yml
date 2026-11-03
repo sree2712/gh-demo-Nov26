@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: v0.7.3
+_src_path: git+https://gitlab.ewi.tudelft.nl/reit/python-package-template
+email: sreeparna9324@gmail.com
+environment_manager: uv
+full_name: Sreeparna Deb
+license: GPL
+manual_lint_fixes: true
+min_python_version: '3.11'
+project_name: gh-demo-Nov26
+project_short_description: A great package.
