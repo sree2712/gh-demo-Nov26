@@ -7,6 +7,7 @@ repo_url: https://github.com/sree2712/gh-demo-Nov26
 nav:
   - Home:
       - index.md
+  - My First Page: my-first-page.md
 
 theme:
   language: en
